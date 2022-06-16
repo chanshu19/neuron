@@ -1,2 +1,2 @@
 # neuron
-Convulotional neural network in raw python
+Convolutional neural network in raw python
